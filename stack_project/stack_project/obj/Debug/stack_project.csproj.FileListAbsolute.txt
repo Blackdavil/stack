@@ -1,7 +1,0 @@
-C:\Users\Admin\source\repos\stack_project\stack_project\bin\Debug\stack_project.exe.config
-C:\Users\Admin\source\repos\stack_project\stack_project\bin\Debug\stack_project.exe
-C:\Users\Admin\source\repos\stack_project\stack_project\bin\Debug\stack_project.pdb
-C:\Users\Admin\source\repos\stack_project\stack_project\obj\Debug\stack_project.csproj.CoreCompileInputs.cache
-C:\Users\Admin\source\repos\stack_project\stack_project\obj\Debug\stack_project.exe
-C:\Users\Admin\source\repos\stack_project\stack_project\obj\Debug\stack_project.pdb
-C:\Users\Admin\source\repos\stack_project\stack_project\obj\Debug\stack_project.csprojAssemblyReference.cache
