@@ -1,0 +1,7 @@
+c:\users\admin\source\repos\stack_1\stack_1\bin\Debug\stack_1.exe.config
+c:\users\admin\source\repos\stack_1\stack_1\bin\Debug\stack_1.exe
+c:\users\admin\source\repos\stack_1\stack_1\bin\Debug\stack_1.pdb
+c:\users\admin\source\repos\stack_1\stack_1\obj\Debug\stack_1.csprojAssemblyReference.cache
+c:\users\admin\source\repos\stack_1\stack_1\obj\Debug\stack_1.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\stack_1\stack_1\obj\Debug\stack_1.exe
+c:\users\admin\source\repos\stack_1\stack_1\obj\Debug\stack_1.pdb
